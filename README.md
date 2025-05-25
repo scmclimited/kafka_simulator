@@ -13,6 +13,7 @@ This module provides a Kafka-compatible interface for sending logs to a Kafka to
 ## Directory Structure
 
 kafka_producer/
+
 ├── kafka_producer.py      # Main logic for simulated and real Kafka producers
 
 ## Usage Overview
